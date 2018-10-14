@@ -1,5 +1,5 @@
 function getSum() {
-  var a = $("#a").val()
+  var a = $("#a").vall()
   var b = $("#b").val()
 
   console.log("Summing: " + a + " and " + b);
